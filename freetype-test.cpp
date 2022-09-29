@@ -6,6 +6,9 @@
 
 #include <iostream>
 
+#define FONT_SIZE 36
+#define MARGIN (FONT_SIZE * .5)
+
 //This file exists to check that programs that use freetype / harfbuzz link properly in this base code.
 //You probably shouldn't be looking here to learn to use either library.
 
@@ -17,4 +20,5 @@ int main(int argc, char **argv) {
 	hb_buffer_destroy(buf);
 
 	std::cout << "It worked?" << std::endl;
+	// code from hello-harfbuzz tutorial
 }

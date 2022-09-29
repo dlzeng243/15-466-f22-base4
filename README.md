@@ -1,12 +1,12 @@
-# (TODO: your game's title)
+# Escape (DID NOT ATTEMPT)
 
-Author: (TODO: your name)
+Author: Daniel Zeng (dlzeng)
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Did not make a game.
 
-Text Drawing: (TODO: how does the text drawing in this game work? Is text precomputed? Rendered at runtime? What files or utilities are involved?)
+Text Drawing: Did not make a game.
 
-Choices: (TODO: how does the game store choices and narrative? How are they authored? Anything nifty you want to point out?)
+Choices: Did not make a game.
 
 Screen Shot:
 
@@ -14,9 +14,8 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Did not make a game.
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: Did not make a game.
 
 This game was built with [NEST](NEST.md).
-
